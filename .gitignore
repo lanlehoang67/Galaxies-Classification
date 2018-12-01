@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+
+# ignore all data because of its size
+data/*.csv
+data/images_training_rev1/*
+
+

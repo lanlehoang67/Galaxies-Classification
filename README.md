@@ -1,2 +1,2 @@
 # GalaxyClassification
-Simple student project on galaxy classification using Machine Learning.
+Student project on galaxy classification using Machine Learning.

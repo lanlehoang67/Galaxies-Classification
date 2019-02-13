@@ -3,5 +3,6 @@
 # ignore all data because of its size
 data/*.csv
 data/images_training_rev1/*
+data/images_modified/*
 
 
